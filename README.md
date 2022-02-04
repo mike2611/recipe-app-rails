@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![Live](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Blog App 
 https://shielded-inlet-71783.herokuapp.com/food
